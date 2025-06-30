@@ -1,0 +1,8 @@
+streamlit
+yagmail
+reportlab
+python-docx
+pdfplumber
+scikit-learn
+transformers
+torch
